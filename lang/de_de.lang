@@ -1,0 +1,24 @@
+
+ycountries_form = Land
+ycountries_add = hinzufügen
+ycountries_edit = bearbeiten
+ycountries_delete = löschen
+ycountries_delete_question = Land wirklich löschen?
+
+ycountries_code2 = Code 2
+ycountries_code2_empty = Code 2 darf nicht leer sein
+ycountries_code3 = Code 3
+ycountries_code3_empty = Code 3 darf nicht leer sein
+ycountries_de_de = Name DE
+ycountries_de_de_empty = Name DE darf nicht leer sein
+ycountries_en_gb = Name EN
+ycountries_en_gb_empty = Name EN darf nicht leer sein
+ycountries_is_eu = in der EU
+ycountries_phone_code = Vorwahl
+ycountries_postcode_required = PLZ benötigt
+ycountries_prior = Priorität
+ycountries_tld = TLD
+ycountries_vehicle_code = KFZ
+
+ycountries_no = nein
+ycountries_yes = ja
