@@ -9,7 +9,7 @@
 
 $REX['ADDON']['name']['ycountries'] = 'YCountries';
 $REX['ADDON']['perm']['ycountries'] = 'admin[]';
-$REX['ADDON']['author']['ycountries'] = 'Yakamara GmbH & Co. KG';
+$REX['ADDON']['author']['ycountries'] = 'Yakamara Media GmbH & Co. KG';
 $REX['ADDON']['version']['ycountries'] = '0.1';
 
 if ($REX['REDAXO']) {
