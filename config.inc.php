@@ -2,7 +2,7 @@
 
 /**
  * YCountries Addon
- * @author Yakamara GmbH & Co. KG
+ * @author Yakamara Media GmbH & Co. KG
  * @author thomas.blum@redaxo.org
  * @package redaxo4.6
  */
