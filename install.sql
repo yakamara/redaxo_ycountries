@@ -2,7 +2,7 @@
 -- Tabellenstruktur für Tabelle `ycountries`
 --
 
-CREATE TABLE IF NOT EXISTS `rex_ycountries` (
+CREATE TABLE IF NOT EXISTS `%TABLE_PREFIX%ycountries` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
     `prior` int(11) NOT NULL,
     `en_gb` varchar(70) NOT NULL DEFAULT '',
@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS `rex_ycountries` (
 -- Daten für Tabelle `rex_ycountries`
 --
 
-INSERT INTO `rex_ycountries` (`id`, `prior`, `en_gb`, `de_de`, `code2`, `code3`, `tld`, `vehicle_code`, `phone_code`, `postcode_required`, `is_eu`, `updatedate`) VALUES
+INSERT INTO `%TABLE_PREFIX%ycountries` (`id`, `prior`, `en_gb`, `de_de`, `code2`, `code3`, `tld`, `vehicle_code`, `phone_code`, `postcode_required`, `is_eu`, `updatedate`) VALUES
 (1, 230, 'United States', 'Vereinigte Staaten von Amerika ', 'US', 'USA', '', 'USA', 1, 0, 0, 1438273364),
 (2, 39, 'Canada', 'Kanada', 'CA', 'CAN', '.ca', 'CDN', 1, 0, 0, 1438273410),
 (3, 1, 'Afghanistan', 'Afghanistan', 'AF', 'AFG', '.af', 'AFG', 93, 0, 0, 1438274226),

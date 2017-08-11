@@ -1,0 +1,9 @@
+package: ycountries
+version: 0.2-dev
+author: Yakamara Media GmbH & Co. KG
+supportpage: http://www.yakamara.de
+
+page:
+    title: YCountries
+    perm: admin
+    icon: rex-icon fa-globe
